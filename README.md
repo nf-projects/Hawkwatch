@@ -1,3 +1,5 @@
+Treehacks 2025 project. Mirror of [https://github.com/Grace-Shao/Treehacks2025/blob/main/scripts/generate_video_data.py](my teammate's repo). The project ended up winning the $11k first overall prize.
+
 # HawkWatch - AI-Powered Security Surveillance
 
 ![Gif 1](public/gifs/landing.gif)
